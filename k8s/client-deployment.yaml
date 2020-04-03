@@ -17,4 +17,3 @@ spec:
           image: stevejohansson/multi-client
           ports:
             - containerPort: 3000
-            
